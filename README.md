@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sivharinair2001
+- 👋 Hi, I’m Siv Hari Nair
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently pursuing BTECH in Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on any projects on cybersecurity
